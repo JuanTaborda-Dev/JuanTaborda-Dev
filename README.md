@@ -6,7 +6,7 @@ I build full-stack applications and AI-powered systems, from local voice assista
 to campus access-control platforms, with a strong focus on security, testing and clean architecture.
 
 ### 🛠️ Tech Stack
-![skills](https://skillicons.dev/icons?i=python,java,js,html,css,fastapi,postgres,pytorch,git,github,vscode,windows)
+![skills](https://skillicons.dev/icons?i=python,java,js,react,html,css,fastapi,postgres,docker,pytorch,git,github,vscode,windows)
 
 ### 🚀 Featured Projects
 | Project | Description | Stack |
