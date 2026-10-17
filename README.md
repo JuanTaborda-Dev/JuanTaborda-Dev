@@ -1,21 +1,19 @@
 # Hi, I'm Juan P. Taborda 👋
 
-**Software Engineer · Full-Stack Developer · AI Engineer** — based in Medellín, Colombia 🇨🇴
+**Junior Software Developer · Full Stack · AI** — Computer Engineering student based in Medellín, Colombia 🇨🇴
 
-I build full-stack applications and AI-powered systems, from local voice assistants
-to campus access-control platforms, with a strong focus on security, testing and clean architecture.
+I build Python applications powered by local AI, with a strong focus on testing, privacy and clean architecture.
 
 ### 🛠️ Tech Stack
-![skills](https://skillicons.dev/icons?i=python,java,js,react,html,css,fastapi,postgres,docker,pytorch,git,github,vscode,windows)
+![skills](https://skillicons.dev/icons?i=python,java,js,html,css,php,mysql,pytorch,git,github,linux,vscode)
 
 ### 🚀 Featured Projects
 | Project | Description | Stack |
 |---|---|---|
-| **NOVA IA** | 100% local voice assistant: speaker identification (ECAPA-TDNN), speech recognition (Whisper), local LLM conversation (Ollama), voice commands, computer vision and robot control. | Python · PyTorch · CUDA · Streamlit · MediaPipe |
-| **NFC Access Control** | Classroom attendance and vehicle access system for a university using NFC student cards. | Python · FastAPI · SQLAlchemy |
-| **Robotics (ROBOTIS)** | Voice-controlled quadruped and humanoid robots, including arm imitation via camera. | Python · Serial/Bluetooth · Computer Vision |
+| **NOVA IA** *(academic)* | 100% local voice assistant: speaker identification (ECAPA-TDNN), speech recognition (faster-whisper), local LLM conversation (Ollama), neural text-to-speech (piper) and voice commands. GPU (CUDA) with CPU fallback and 4,100+ automated tests. | Python · PyTorch · Streamlit · CUDA · pytest |
+| **NFC Attendance** *(in development)* | Classroom attendance and vehicle access for a university using NFC student cards. Domain model and tests in progress. | Python · pytest |
 
-> Most projects are private (academic / institutional). Happy to walk you through them.
+> These repositories are private because they handle biometric and institutional data. Happy to walk you through them or show a demo.
 
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanpablotl)
